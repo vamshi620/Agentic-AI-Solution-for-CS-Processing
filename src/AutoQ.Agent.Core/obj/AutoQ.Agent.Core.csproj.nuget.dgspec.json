@@ -13,6 +13,7 @@
         "packagesPath": "/home/runner/.nuget/packages/",
         "outputPath": "/tmp/workspace/vamshi620/Agentic-AI-Solution-for-CS-Processing/src/AutoQ.Agent.Core/obj/",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
@@ -30,6 +31,7 @@
           }
         },
         "warningProperties": {
+          "allWarningsAsErrors": true,
           "warnAsError": [
             "NU1605"
           ]
@@ -45,6 +47,26 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Extensions.AI.Abstractions": {
+              "target": "Package",
+              "version": "[10.6.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "6.0.2",
+            "Microsoft.Agents.AI": "1.0.0",
+            "Microsoft.Agents.AI.Abstractions": "1.0.0",
+            "Microsoft.Data.SqlClient": "6.0.1",
+            "Microsoft.Extensions.AI": "10.6.0",
+            "Microsoft.Extensions.AI.Abstractions": "10.6.0",
+            "Microsoft.Extensions.Caching.Memory": "10.0.0",
+            "Microsoft.Extensions.Http.Resilience": "10.0.0",
+            "Microsoft.NET.Test.Sdk": "17.12.0",
+            "xunit": "2.7.0",
+            "xunit.runner.visualstudio": "2.5.7"
+          },
           "imports": [
             "net461",
             "net462",
