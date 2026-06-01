@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoQ.Agent.Api/AutoQ.Agent.Api.csproj" />
+    <Project Path="src/AutoQ.Agent.Core/AutoQ.Agent.Core.csproj" />
+    <Project Path="src/AutoQ.Agent.Infrastructure/AutoQ.Agent.Infrastructure.csproj" />
+    <Project Path="src/AutoQ.Agent.Specialists/AutoQ.Agent.Specialists.csproj" />
+    <Project Path="src/AutoQ.Agent.Supervisor/AutoQ.Agent.Supervisor.csproj" />
+    <Project Path="src/AutoQ.Agent.Workflows/AutoQ.Agent.Workflows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AutoQ.Agent.Core.Tests/AutoQ.Agent.Core.Tests.csproj" />
+    <Project Path="tests/AutoQ.Agent.Infrastructure.Tests/AutoQ.Agent.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

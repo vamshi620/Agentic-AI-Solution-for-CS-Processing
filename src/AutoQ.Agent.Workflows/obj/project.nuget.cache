@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3XdtHcwtSs=",
+  "success": true,
+  "projectFilePath": "/tmp/workspace/vamshi620/Agentic-AI-Solution-for-CS-Processing/src/AutoQ.Agent.Workflows/AutoQ.Agent.Workflows.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/google.protobuf/3.30.2/google.protobuf.3.30.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.agents.ai/1.0.0/microsoft.agents.ai.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.agents.ai.abstractions/1.0.0/microsoft.agents.ai.abstractions.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.ai/10.6.0/microsoft.extensions.ai.10.6.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.ai.abstractions/10.6.0/microsoft.extensions.ai.abstractions.10.6.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.8/microsoft.extensions.caching.abstractions.10.0.8.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.compliance.abstractions/10.4.0/microsoft.extensions.compliance.abstractions.10.4.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.8/microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.8/microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.objectpool/10.0.4/microsoft.extensions.objectpool.10.0.4.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.primitives/10.0.8/microsoft.extensions.primitives.10.0.8.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.vectordata.abstractions/9.7.0/microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.ml.tokenizers/2.0.0/microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.numerics.tensors/10.0.8/system.numerics.tensors.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
