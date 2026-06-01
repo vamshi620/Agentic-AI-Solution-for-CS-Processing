@@ -6,6 +6,7 @@ public interface ISelectionTool
 {
     Task<SelectionResult> RunSelectionAsync(
         string customSolutionId,
+        string variant,
         string environmentTokenHandle,
         string idempotencyKey,
         IReadOnlyDictionary<string, string> parameters,

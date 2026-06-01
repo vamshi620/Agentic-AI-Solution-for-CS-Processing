@@ -12,6 +12,7 @@ public sealed record SelectionResult
 {
     public required int SelectedCount { get; init; }
     public required string ExecutionId { get; init; }
+    public required string Variant { get; init; }
     public IReadOnlyList<long> ClaimIds { get; init; } = Array.Empty<long>();
 }
 

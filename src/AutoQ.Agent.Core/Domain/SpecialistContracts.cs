@@ -19,6 +19,7 @@ public sealed record SpecialistContext
     public required int EnvironmentId { get; init; }
     public string? EnvironmentTokenHandle { get; init; }
     public IReadOnlyDictionary<string, string> Parameters { get; init; } = new Dictionary<string, string>();
+    public IReadOnlyList<long> ClaimIds { get; init; } = Array.Empty<long>();
     public int BatchSize { get; init; } = 100;
 }
 
