@@ -1,0 +1,118 @@
+{
+	"results": [
+		{
+			"envId": 307,
+			"name": "AUTOQ",
+			"server": "XXX",
+			"databaseName": "QNXT_AUTOQ_FL",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 64,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "ERS_MESSAGESTORE",
+			"server": "XXX",
+			"databaseName": "QNXT_MESSAGESTORE",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "PLANAUDIT",
+			"server": "XXX",
+			"databaseName": "QNXT_PlanAudit_FL",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "PLANDATA",
+			"server": "XXX",
+			"databaseName": "QNXT_PLANDATA_FL",
+			"description": "Environment Owner: Webb, Jennifer",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "PLANEVENT",
+			"server": "XXX",
+			"databaseName": "QNXT_PLANEVENT",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "PLANINTEGRATION",
+			"server": "XXXX",
+			"databaseName": "QNXT_PLANINTEGRATION",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "PLANREPORT",
+			"server": "XXX",
+			"databaseName": "QNXT_PLANDATA_FL",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "QENTERPRISE",
+			"server": "XXX",
+			"databaseName": "QNXT_QCSIDB",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		},
+		{
+			"envId": 307,
+			"name": "REPORTDB",
+			"server": "XXXX",
+			"databaseName": "QNXT_REPORTDB_FL",
+			"description": "",
+			"schemeVersionMajor": 5,
+			"schemeVersionMinor": 40,
+			"dbPlatformType": 128,
+			"processMetadata": null,
+			"entityState": 0
+		}
+	],
+	"processMetadata": {
+		"conversationId": "bf01a0fc-8337-4283-9021-f138e801ac43",
+		"transactionId": "70293885-66b6-43a2-a516-95fca0478a0a",
+		"processMessages": null,
+		"multiStatusResponses": null
+	}
+}
